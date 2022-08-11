@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#" className="footer__logo">
-        Fender
+        Fender Mora - Dev
       </a>
       <ul className="permalinks">
         <li>
@@ -19,27 +19,27 @@ const Footer = () => {
         <li>
           <a href="#experience">Experiences</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#service">Services</a>
         </li>
         <li>
           <a href="#portfolio">Portfolio</a>
-        </li>
-        <li>
+        </li> */}
+        {/* <li>
           <a href="#testimonial">Testimonials</a>
-        </li>
+        </li> */}
         <li>
           <a href="#contact">Contact Me</a>
         </li>
       </ul>
       <div className="footer__social">
-        <a href="">
+        {/* <a href="">
           <FaFacebookF />
-        </a>
-        <a href="">
+        </a> */}
+        <a href="https://www.instagram.com/fender.mora/">
           <FiInstagram />
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/fender.mora/">
           <IoLogoTwitter />
         </a>
       </div>

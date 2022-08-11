@@ -1,6 +1,6 @@
 .about__container {
   display: grid;
-  grid-template-columns: 35% 50%;
+  grid-template-columns: 40% 50%;
   gap: 15%;
 }
 
@@ -67,6 +67,7 @@
 
 .about__content p {
   margin: 2rem 0 2.6rem;
+  text-align: justify;
   color: var(--color-light);
 }
 

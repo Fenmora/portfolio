@@ -27,13 +27,6 @@ const data = [
     github: "https://github.com/FenderMora",
     demo: "https://dribbble.com/shots/18936884-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Eclipse - Figma dashboard UI kit for data design web apps",
-    github: "https://github.com/FenderMora",
-    demo: "https://dribbble.com/shots/18936884-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
-  },
 ];
 
 const Portafolio = () => {

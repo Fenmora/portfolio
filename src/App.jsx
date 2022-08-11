@@ -12,15 +12,15 @@ import Services from "./components/Services/Services";
 const App = () => {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Nav />
       <About />
       <Experience />
-      <Services />
-      <Portafolio />
-      <Testimonial />
+      {/* <Portafolio /> */}
       <Contact />
       <Footer />
+      {/* <Services /> */}
+      {/* <Testimonial /> */}
     </>
   );
 };
